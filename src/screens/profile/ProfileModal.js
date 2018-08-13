@@ -62,7 +62,7 @@ class ProfileModal extends Component {
             </View>
             <View style= {{flexWrap: 'wrap'}}>
               <GDText textStyle = {{color: "#FFF", flexWrap: 'wrap', textAlign: 'center'}}>
-              Killin this game like im the man bitch
+              Call me Kitty Kat
               </GDText>
             </View>
           </View>
